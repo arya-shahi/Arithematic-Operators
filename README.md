@@ -42,5 +42,7 @@ Example: a % b
    - Display `prdt`.
    - Display `div`.
 
-5. **conclusion**
-6. In this experiment we learned how to use arithmetic operators
+5. **Conclusion**
+
+   
+ In this experiment we learned how to use arithmetic operators
